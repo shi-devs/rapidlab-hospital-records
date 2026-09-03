@@ -1,0 +1,55 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1788005748308,
+      "tag": "0000_neat_weapon_omega",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1788025062076,
+      "tag": "0001_red_gargoyle",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1788241956981,
+      "tag": "0002_lazy_runaways",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1788331518139,
+      "tag": "0003_nostalgic_wasp",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1788354428546,
+      "tag": "0004_gray_khan",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1788360776207,
+      "tag": "0005_equal_firebrand",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "6",
+      "when": 1788408381683,
+      "tag": "0006_uneven_infant_terrible",
+      "breakpoints": true
+    }
+  ]
+}
